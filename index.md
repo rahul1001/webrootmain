@@ -29,8 +29,8 @@ Before heading to the download site:
 
 - Ensure you have your Webroot keycode (a 20-character alphanumeric code).
 - Uninstall any conflicting antivirus software.
-- Verify your device has a stable internet connection.
-
+- [Verify your device has a stable internet connection.](https://webrootmain.readthedocs.io/)
+  
 ### 2. Visit webroot.com/safedownloadinstall
 
 Open your browser and go to the link above. It leads you to the official download page to securely get the Webroot installer.
